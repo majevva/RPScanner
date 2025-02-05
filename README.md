@@ -1,4 +1,4 @@
-# Wi-Fi Security Toolkit 🛡️
+# Wi-Fi Security Toolkit called RPScanner🛡️
 
 A dual-device system for Wi-Fi data collection and security analysis.  
 **Legal use only** - Requires explicit permission for network testing.
